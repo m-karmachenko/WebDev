@@ -1,0 +1,26 @@
+body {
+    background-color: khaki;
+}
+
+h2 {
+    color: red;
+    text-align: center;
+    font-weight: 100;
+    font-style: italic;
+    /* text-decoration: underline; */
+    text-decoration: line-through;
+    font-size: 30px;
+}
+
+.chapter {
+    color: rgb(255, 20, 147);
+}
+
+#begin {
+    color: orange;
+    font-weight: bold;
+}
+
+.text{
+    font-weight: 900;
+}
